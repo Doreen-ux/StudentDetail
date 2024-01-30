@@ -6,6 +6,7 @@ package studentdetails;
 
 /**MVC
  *Model class -student entity
+ *28, jan 2024
  * @author 16476
  */
 public class Student 
